@@ -1,8 +1,6 @@
 vless://027a4b15-c493-4e27-a4af-6cec2742d0c8@129.212.179.0:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=connectivitycheck.gstatic.com&fp=chrome&pbk=tI8vm3zTlETr2Jv4CaMqiaz7q41lJk5Vyn7eKOkldGY&sid=a6ff&spx=%2Fgenerate_204&type=tcp&headerType=none#%5BGUID%3A1%5D%5BUS%5D%20New%20York-Server%201
 vless://c5ae1a09-2958-450b-92f3-58be6123b326@128.199.59.118:27719?encryption=none&security=none&type=tcp&headerType=http&host=divar.ir#%5BGUID%3A2%5D%5BNL%5D%20Netherlands-Server%201
 vless://7562ce8f-718e-4f82-916e-6be83e357a94@128.199.59.118:14788?encryption=none&security=reality&sni=ftp.ipv6.debian.org&fp=chrome&pbk=HpJFmHeBwNubCmw_XdVYVYaT7Edi8EWyT61tAuR6X3I&sid=574a&spx=%2F&type=grpc#%5BGUID%3A3%5D%5BNL%5D%20Netherlands-Server%202
-vless://a92512b3-6d13-44ee-9f46-6b8e0a7be87f@95.179.233.228:36122?encryption=none&security=none&type=tcp&headerType=none#%5BGUID%3A4%5D%5BUK%5D%20London-Server%201
-vless://24244c9e-f091-40c5-86f9-e6e673f322fa@www.speedtest.net:443?encryption=none&security=tls&sni=floRaL-DArKnesS-9C3D.goDoFwaR3KiNG.WORkerS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=floral-darkness-9c3d.godofwar3king.workers.dev&path=%2FZviiNQ8ntrULxivD%3Fed%3D2560#%5BGUID%3A5%5D%5BUK%5D%20London-Server%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.235.56.69:990#%5BGUID%3A10%5D%5BUS%5D%20Los%20Angeles-Server%2010
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTMlF1ZEJ4aTB2UnlTdzRZUkxsb1Bx@77.238.224.29:55702#%5BGUID%3A11%5D%5BUS%5D%20Los%20Angeles-Server%2011
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc01pV3B1cEdvYjhJb3VWd1lXNVdD@89.185.84.185:443#%5BGUID%3A12%5D%5BUS%5D%20Los%20Angeles-Server%2012
